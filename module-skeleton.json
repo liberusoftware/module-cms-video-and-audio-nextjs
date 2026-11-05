@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-video-and-audio-nextjs",
+  "capabilityKey": "liberusoftware/module-cms-video-and-audio",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-video-and-audio-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/video-and-audio.md",
+  "presentationPlan": "projects/cms/nextjs/video-and-audio.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
